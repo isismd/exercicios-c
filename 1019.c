@@ -13,6 +13,7 @@
 // Imprima o tempo lido no arquivo de entrada (segundos), convertido para
 // horas:minutos:segundos, conforme exemplo fornecido.
 
+
 #include <stdio.h>
 
 int main() {
